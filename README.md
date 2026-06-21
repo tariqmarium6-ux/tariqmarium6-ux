@@ -1,6 +1,6 @@
 ### Hi there! I'm Marium Tariq 👋
 
-I am a Computer Science student at NED University of Engineering & Technology and an AI & Agentic Systems Developer. I specialize in building LLM-powered applications, RAG architectures, and autonomous agentic workflows that bridge the gap between high-level AI and low-level system design.
+I am a Computer Science student at NED University of Engineering & Technology and an AI & Agentic Systems Developer. I specialize in building LLM-powered applications, RAG architectures, and have started autonomous agentic workflows that bridge the gap between high-level AI and low-level system design.
 
 I believe in building, documenting, and shipping production-grade AI applications.
 
