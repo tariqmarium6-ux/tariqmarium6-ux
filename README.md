@@ -8,7 +8,7 @@ I believe in building, documenting, and shipping production-grade AI application
 * **AI & Agentic Systems:** RAG pipelines, Agentic workflows, Llama 3.1, LLM Evaluation, Prompt Engineering.
 * **Systems Programming:** C, C++, Python.
 * **Automation:** n8n, Google Workspace APIs, LLM Workflows.
-* **Development:** Google AI Studio, Hugging Face, Full-Stack development.
+* **Development:** Google AI Studio, Hugging Face, Full-Stack development,Google Antigravity 2.0.
 
 #### 🛠 Key Projects
 * **BuilderGuard AI:** B2B SaaS for automated verification and risk-flagging of property legal documents, featuring end-to-end agentic workflows.
