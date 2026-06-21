@@ -15,9 +15,6 @@ I am a Computer Science student at NED University of Engineering & Technology an
 * **AI Email Automation Pipeline:** End-to-end automation for email filtering and personalized LLM-generated responses via Gmail.
 * **Amazing Study Buddy:** Full-stack platform providing document-driven, personalized academic assistance.
 
-#### 🎓 Certifications
-* **Google AI Professional Certificate:** Completed the full 7-course specialization.
-* **Generative AI Developer Certificate:** Certified by HEC & NCEAC.
 
 #### 📬 Get in touch
 * **Portfolio/Projects:** [github.com/tariqmarium6-ux](https://github.com/tariqmarium6-ux)
